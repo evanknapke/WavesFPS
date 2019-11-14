@@ -1,10 +1,8 @@
 # Waves FPS
-A 3rd person shooting game created for CS315 Game Programming class.
+A 3rd person shooting game created for CS315 Game Programming class using Unreal Engine 4.
 
 ## Authors
 Evan Knapke
-Nick Hammerstrom
-- We both utilized pair programming for the majority of this project and did almost everything together.
 
 ## Acknowledgments
 Dr. Paul Gestwicki for his project example and help in class.
@@ -14,7 +12,7 @@ Background music is from [www.dl-sounds.com](https://www.dl-sounds.com/royalty-f
 		Used under [dl-sounds license](https://www.dl-sounds.com/license/) which states that their music does not require any acknowledgements.
 
 ## Grade Earned 
-We believe that we fulfilled all requirements in order to receive an A.
+I believe that I fulfilled all requirements in order to receive an A.
 
 - [x] D-1: Use standard mouse+keyboard or gamepad controls for your chosen view.
 - [x] D-2: Include terrain or obstacles that the player can climb up onto or jump over.
