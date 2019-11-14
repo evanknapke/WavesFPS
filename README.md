@@ -11,7 +11,7 @@ Dr. Paul Gestwicki for his project example and help in class.
 Background music is from [www.dl-sounds.com](https://www.dl-sounds.com/royalty-free/power-bots-loop/), titled "Power Bots Loop".
 		Used under [dl-sounds license](https://www.dl-sounds.com/license/) which states that their music does not require any acknowledgements.
 
-## Grade Earned 
+## Grade Earned and Grading Criteria/Requirements
 I believe that I fulfilled all requirements in order to receive an A.
 
 - [x] D-1: Use standard mouse+keyboard or gamepad controls for your chosen view.
