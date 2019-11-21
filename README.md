@@ -5,7 +5,7 @@ A 3rd person shooting game created for CS315 Game Programming class using Unreal
 Evan Knapke
 
 ## Acknowledgments
-Dr. Paul Gestwicki for his project example and help in class.
+Dr. Paul Gestwicki for answering questions that I had.
 
 ## Music
 Background music is from [www.dl-sounds.com](https://www.dl-sounds.com/royalty-free/power-bots-loop/), titled "Power Bots Loop".
