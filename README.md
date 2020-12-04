@@ -1,17 +1,30 @@
 # Waves FPS
-A 3rd person shooting game created for CS315 Game Programming class using Unreal Engine 4.
+
+A 3rd person shooting game created with Unreal Engine 4.
+
+## Gameplay
+
+- Player is met by an increasing number of enemies.
+- Enemies have guns and shoot at the player. 
+- Player must navigate the level and shoot the enemies in order to beat the round.
+- When round is over the next wave will start with more enemies.
+- The game lasts until the player dies.
 
 ## Authors
+
 Evan Knapke
 
 ## Acknowledgments
+
 Dr. Paul Gestwicki for answering questions that I had.
 
 ## Music
+
 Background music is from [www.dl-sounds.com](https://www.dl-sounds.com/royalty-free/power-bots-loop/), titled "Power Bots Loop".
 		Used under [dl-sounds license](https://www.dl-sounds.com/license/) which states that their music does not require any acknowledgements.
 
 ## Grade Earned and Grading Criteria/Requirements
+
 I believe that I fulfilled all requirements in order to receive an A.
 
 - [x] D-1: Use standard mouse+keyboard or gamepad controls for your chosen view.
