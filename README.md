@@ -25,8 +25,6 @@ Background music is from [www.dl-sounds.com](https://www.dl-sounds.com/royalty-f
 
 ## Grade Earned and Grading Criteria/Requirements
 
-I believe that I fulfilled all requirements in order to receive an A.
-
 - [x] D-1: Use standard mouse+keyboard or gamepad controls for your chosen view.
 - [x] D-2: Include terrain or obstacles that the player can climb up onto or jump over.
 - [x] D-3: Correctly configured on the depot so that a new client provides a runnable game.
